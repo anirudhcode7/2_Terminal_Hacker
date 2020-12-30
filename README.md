@@ -5,4 +5,4 @@ Go to Assets,
 Sample Scenes,
 and open the Scene Terminal_Hacker.
 
-# Happy Gaming guys!
+**Happy Gaming guys!
